@@ -7,7 +7,7 @@ import {
   ChannelDetail,
   VideoDetail,
 } from "./components";
-import { useEffect } from "react";
+/*import { useEffect } from "react";*/
 const App = () => {
   return (
     <BrowserRouter>
